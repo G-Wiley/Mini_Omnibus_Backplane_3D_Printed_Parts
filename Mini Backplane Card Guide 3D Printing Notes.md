@@ -1,0 +1,4 @@
+Mini Backplane Card Guide 3D Printing Notes
+
+Regarding the slicing parameters:
+Set the Wall Thickness to 1.6 mm so the 3 mm thick side and feet will be solid and strong.
